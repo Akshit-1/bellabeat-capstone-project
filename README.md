@@ -50,4 +50,4 @@ The objective is to explore smart device usage data and identify trends that can
 
 ## ✍️ Author
 
-[Your Name] – Data Analyst | Google Data Analytics Certificate Graduate
+Akshit – Data Analyst | Google Data Analytics Certificate Graduate
